@@ -31,3 +31,5 @@ To Receive:
 Print or save the response
 
 print(response.text)
+
+![UML Diagram](https://github.com/user-attachments/assets/a507806f-c945-4647-a45a-82802917e4b1)
