@@ -4,7 +4,7 @@ import pandas
 app = Flask(__name__)
 
 # Load data from a local CSV file
-data = pandas.read_csv('/Users/henry/Documents/Henry’s_Mac_Pro/CS 361/A7/median_home_prices.csv')
+data = pandas.read_csv('/Users/henry/Documents/Henry’s_Mac_Pro/CS 361/A8/median_home_prices.csv')
 
 # List of valid US state abbreviations
 valid_states = {
