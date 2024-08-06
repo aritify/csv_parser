@@ -12,6 +12,7 @@ Server URL: http://127.0.0.1:5001/filter/{state} (state being the parameter pass
 
 To Request:
 Enter a state in abbreviated form into the server URL where is has 'state'
+
 response = requests.get(URL)
 
 To Receive:
