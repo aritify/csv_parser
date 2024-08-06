@@ -10,7 +10,9 @@ Import Flask and requests from flask
 
 Import pandas
 
-Server URL: http://127.0.0.1:5001/filter/{state} (state being the parameter passed in)
+Server URL: http://127.0.0.1:5001/filter/{state} (*state being the parameter passed in)
+
+data = pandas.read_csv('ProjectDirectory/data.csv') (*Have the CSV file in the same directory as the project. Replace 'data' with filename)
 
 ---------------------------------------------
 
