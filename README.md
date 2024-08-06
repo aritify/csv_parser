@@ -6,6 +6,8 @@ Uses HTTP for communication.
 
 ---------------------------------------------
 
+Server:
+
 Import Flask and requests from flask
 
 Import pandas
